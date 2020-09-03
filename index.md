@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/gigglypear/gigglypear.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- [try this](./README.md)
+- [try this](./first_try.md)
 
 
 ### Markdown
